@@ -5,4 +5,4 @@ venv/
 Videoeditor/
 videomaker/
 
-.mp4
+*.mp4
